@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```nps instal react````
+
+sistema de registro 2
